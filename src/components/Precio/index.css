@@ -1,0 +1,12 @@
+.cards {
+    width: 100px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 25px;
+    margin-bottom: 20px;    
+    background-color: burlywood;
+    border-radius: 50%;
+}
+.cards:hover {
+    filter: drop-shadow(2px 2px 5px black);
+}
